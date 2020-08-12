@@ -29,11 +29,6 @@ DATABASES = {
 }
 ```
 
-
-## 克隆代码
-> git clone https://github.com/bg4hkq/Django-ERP.git
-
-
 ## 导入数据库
 > mysql -uroot -proot mis < Install/mis.sql
 
